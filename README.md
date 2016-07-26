@@ -11,6 +11,12 @@
 * 支持 代码语法高亮
 * 附注前端开发工具推荐
 
+#后端php规范
+
+PSR1:[PSR1]
+PSR2:[PSR2]
+
+
 ## 贡献
 
 该`前端规范`托管在`Github Page`上，`Fork` & `Star`让它变得更强大。
@@ -22,4 +28,6 @@
 Available under MIT. See [LICENSE] for more details.
 
 [Front-End-Standards]: https://lingdianit-com.github.io/Front-End-Standards/ 'Front End Standards'
+[PSR1]:https://github.com/LingdianIT-Com/PSR/blob/master/PSR1_zh-cn.md 'PSR1'
+[PSR2]:https://github.com/LingdianIT-Com/PSR/blob/master/PSR2_zh-cn.md 'PSR2'
 [LICENSE]: http://rem.mit-license.org 'MIT License'
