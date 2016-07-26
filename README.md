@@ -21,5 +21,5 @@
 
 Available under MIT. See [LICENSE] for more details.
 
-[Front-End-Standards.com]: https://lingdianit-com.github.io/Front-End-Standards/ 'Front End Standards'
+[Front-End-Standards]: https://lingdianit-com.github.io/Front-End-Standards/ 'Front End Standards'
 [LICENSE]: http://rem.mit-license.org 'MIT License'
